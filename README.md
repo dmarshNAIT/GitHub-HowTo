@@ -31,13 +31,21 @@ In order to use this approach, you will need to download Git (which is a system 
 ## Using the browser
 
 ## Using the command line
+GIF coming soon: for now, check out this documentation for how to clone using the command line: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 # Uploading your completed assignment
+Once you've made changes, it's time to get those changes on GitHub so your instructor can review them.
 
 ## Using GitHub Desktop (recommended)
+![3a-desktop](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/6bee17cf-f3cd-4579-b964-00a37e4cc4d0)
+
+1. After you've saved your changes, open up GitHub Desktop.
+2. You should see a little summary of all your changes. Add in a brief description of what you've done (e.g. "submitted final version", "fixed validation bug", etc) then click the blue **Commit** button. This saves a new version of your entire repo. Then, click **Push**: this uploads that latest version to GitHub, and you're done!
+3. To make sure it did upload properly, you can always open it in your browser and view your changes there.
 
 ## Using Visual Studio Code
 
 ## Using the browser
 
 ## Using the command line
+GIF coming soon. For now, check out the steps on GitHub: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line
