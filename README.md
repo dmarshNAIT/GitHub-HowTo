@@ -48,13 +48,21 @@ Once you've made changes, it's time to get those changes on GitHub so your instr
 2. You should see a little summary of all your changes. Add in a brief description of what you've done (e.g. "submitted final version", "fixed validation bug", etc) then click the blue **Commit** button. This saves a new version of your entire repo. Then, click **Push**: this uploads that latest version to GitHub, and you're done!
 3. To make sure it did upload properly, you can always open it in your browser and view your changes there.
 
-## Using Visual Studio Code (another good approach)
+## Using Visual Studio Code (an alternative recommended approach)
+![3b-vscode](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/8626ef24-0ec6-4163-b843-b93ef152d231)
 
 1. Once you've saved your changes, head over to the **Source Control** tab within Visual Studio Code.
 2. Find your project in the list. Add in a brief description of what you've done (e.g. "submitted final version", "fixed validation bug", etc) then click the blue **Commit** button. This saves a new version of your entire repo. Then, click **Sync**: this uploads that latest version to GitHub, and you're done!
 3. To make sure it did upload properly, you can always open it in your browser and view your changes there.
 
 ## Using the browser
+This is not a recommended approach: please only use this manual process as a backup plan.
+![3c-upload](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/1d47cf61-70ef-4af5-a290-5baf264df12b)
+
+1. Open your repo in a regular internet browser.
+2. Click the **Add File** button then **Upload Files**.
+3. Select the changed file, then **Commit**. You're done!
+4. You can confirm the changes were uploaded by opening the file in your internet browser.
 
 ## Using the command line
 GIF coming soon. For now, check out the steps on GitHub: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line
