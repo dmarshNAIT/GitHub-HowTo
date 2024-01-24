@@ -1,10 +1,10 @@
 # GitHub-HowTo
 We will be using GitHub for all the coding assessments in this course. This includes 3 parts:
-1. accepting the assignment
-1. downloading the starter files to your computer
-1. uploading your completed assignment.
+1. **accepting** the assignment, then
+1. **downloading** the starter files to your computer, and finally
+1. **uploading** your completed assignment.
 
-Let's look at each of those 3 parts.
+Let's look at each of those 3 parts. Each is demonstrated with an animated GIF, which is followed by written instructions of the same. If any of this is not accessible enough, please let me know!
 
 # Part 1. Accepting the assignment
 ![1-Accepting](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/459b27b3-82a0-4552-99a9-993ea78cbea3)
@@ -17,7 +17,7 @@ Let's look at each of those 3 parts.
 There are a few different ways to do this. You do not need to do **all** of them, just one!
 
 ## Using GitHub Desktop (recommended)
-In order to use this approach, you will need to download Git (which is a system for tracking changes to computer files) as well as GitHub Desktop (an application that makes the Git process a little easier).
+In order to use this approach, you will need to download **Git** (which is a system for tracking changes to computer files) as well as **GitHub Desktop** (an application that makes the Git process a little easier).
 + Download Git: https://git-scm.com/downloads
 + Download GitHub Desktop: https://desktop.github.com/
 
@@ -63,6 +63,9 @@ This is not a recommended approach: please only use this manual process as a bac
 2. Click the **Add File** button then **Upload Files**.
 3. Select the changed file, then **Commit**. You're done!
 4. You can confirm the changes were uploaded by opening the file in your internet browser.
+5. If you see both the *old* version of the file as well as the new one, please delete the old one, otherwise you may lose marks on your assignment for having extra files or if the old version is marked instead. Click the file name to open it, then click the menu in the top-right corner and **Delete file**: ![image](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/7aeb73d9-d218-4c5d-a55e-cb81652513c9).
+6. Ways to avoid the previous problem are: do NOT change the name of the files after downloading them, and please make sure you're uploading to the same folder you downloaded them from.
+
 
 ## Using the command line
 GIF coming soon. For now, check out the steps on GitHub: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line
