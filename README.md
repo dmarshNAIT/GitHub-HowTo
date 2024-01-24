@@ -14,7 +14,7 @@ Let's look at each of those 3 parts.
 4. Click **Refresh** and you'll see a link to your repo in blue text.
 
 # Downloading the starter files
-There are a few different ways to do this. You do not need to do **all** of them, but if you have issues with one, there are workarounds!
+There are a few different ways to do this. You do not need to do **all** of them, just one!
 
 ## Using GitHub Desktop (recommended)
 In order to use this approach, you will need to download Git (which is a system for tracking changes to computer files) as well as GitHub Desktop (an application that makes the Git process a little easier).
@@ -29,6 +29,11 @@ In order to use this approach, you will need to download Git (which is a system 
 4. Now, you can open it up in your file explorer and view and edit all those files!
 
 ## Using the browser
+Please only use this as a backup in case you're having issues with GitHub Desktop, as this is a manual process.
+![2b-download](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/fea32ed5-2714-4815-bd70-6d9b1561f3fb)
+1. First, open up your repo in a regular internet browser. If you lost the link, you can always click the classroom.google.com link from the previous step, and it'll show you the same blue repo link again.
+2. Click the big green **Code** button then **Download Zip**.
+3. Done. Don't forget to extract (unzip) the file before using its contents!
 
 ## Using the command line
 GIF coming soon: for now, check out this documentation for how to clone using the command line: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
