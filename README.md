@@ -1,19 +1,19 @@
 # GitHub-HowTo
-We will be using GitHub for all the coding assessments in this course. This includes 3 steps:
-+ accepting the assignment
-+ downloading the starter files to your computer
-+ uploading your completed assignment.
+We will be using GitHub for all the coding assessments in this course. This includes 3 parts:
+1. accepting the assignment
+1. downloading the starter files to your computer
+1. uploading your completed assignment.
 
 Let's look at each of those 3 parts.
 
-# Accepting the assignment
+# Part 1. Accepting the assignment
 ![1-Accepting](https://github.com/dmarshNAIT/GitHub-HowTo/assets/55507008/459b27b3-82a0-4552-99a9-993ea78cbea3)
 1. Find your assignment on Moodle, and click on the link that starts with classroom.google.com.
 2. The first time you accept an assignment for each course, you'll be invited to select your name from the class list. This connects your GitHub account with your actual human name.
 3. Click the big green **Accept** button. This will create a repository for you: a private folder that contains all the starter files for your assignment.
 4. Click **Refresh** and you'll see a link to your repo in blue text.
 
-# Downloading the starter files
+# Part 2. Downloading the starter files
 There are a few different ways to do this. You do not need to do **all** of them, just one!
 
 ## Using GitHub Desktop (recommended)
@@ -38,7 +38,7 @@ Please only use this as a backup in case you're having issues with GitHub Deskto
 ## Using the command line
 GIF coming soon: for now, check out this documentation for how to clone using the command line: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-# Uploading your completed assignment
+# Part 3. Uploading your completed assignment
 Once you've made changes, it's time to get those changes on GitHub so your instructor can review them.
 
 ## Using GitHub Desktop (recommended)
@@ -48,7 +48,11 @@ Once you've made changes, it's time to get those changes on GitHub so your instr
 2. You should see a little summary of all your changes. Add in a brief description of what you've done (e.g. "submitted final version", "fixed validation bug", etc) then click the blue **Commit** button. This saves a new version of your entire repo. Then, click **Push**: this uploads that latest version to GitHub, and you're done!
 3. To make sure it did upload properly, you can always open it in your browser and view your changes there.
 
-## Using Visual Studio Code
+## Using Visual Studio Code (another good approach)
+
+1. Once you've saved your changes, head over to the **Source Control** tab within Visual Studio Code.
+2. Find your project in the list. Add in a brief description of what you've done (e.g. "submitted final version", "fixed validation bug", etc) then click the blue **Commit** button. This saves a new version of your entire repo. Then, click **Sync**: this uploads that latest version to GitHub, and you're done!
+3. To make sure it did upload properly, you can always open it in your browser and view your changes there.
 
 ## Using the browser
 
