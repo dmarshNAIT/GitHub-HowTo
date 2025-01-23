@@ -36,7 +36,10 @@ In order to use this approach, you will need to download **[Git](https://git-scm
 1. First, open up your repo in a regular internet browser. If you lost the link, you can always click the `classroom.google.com` link from the previous step, and it'll show you the same blue repo link again.
 2. Click the big green button that says **Code** then select **Open with GitHub Desktop**.
 3. This launches GitHub Desktop. You can choose where on your computer you'd like to save the contents of this repo. Click **Clone**, which makes a copy of the repo's contents in that location on your computer.
-4. Now, you can open it up in your file explorer and view and edit all those files!
+4. 📢 When you are asked how you are going to use the fork, you MUST click "For my own purposes" (see screenshot below). If not, you will not be able to commit & push your changes. Fortunately, this mistake is easy to fix: simply re-clone the assignment to a new location and make sure to select "For my own purposes" when prompted.
+   ![image](https://github.com/user-attachments/assets/83fb061a-2988-496d-8514-1b3e430fe9fe)
+
+6. Now, you can open it up in your file explorer and view and edit all those files!
 
 
 ***
